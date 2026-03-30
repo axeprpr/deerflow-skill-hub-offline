@@ -815,6 +815,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
 
 ### 82. Prat011/awesome-llm-skills
 - 仓库链接: https://github.com/Prat011/awesome-llm-skills
+- 深度报告: `reports/prat011-awesome-llm-skills-deep-dive.md`
 - 角色定位: 技能索引与分发
 - 主要作用: A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
 - 能力补充: Awesome LLM Skills A curated list of awesome LLM Skills, resources, and tools for customizing AI workflows on tools like Claude Code, Codex, Gemini CLI, Qwen Code, OpenCode etc. Co...
