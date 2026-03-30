@@ -18,6 +18,20 @@ python3 scripts/normalize_to_deerflow.py --mirrors mirrors --out output/skills/c
 bash scripts/pack_skill_archives.sh output/skills/custom dist
 ```
 
+## 索引类递归分析（新增）
+
+- 详细报告: `reports/index-recursive-analysis.md`
+- 数据文件: `data/index_recursive_local.json`
+- 说明: 对 Top60 中索引仓库做了递归挖掘（根仓 README 外链 + 索引子仓二级外链）。
+
+- VoltAgent/awesome-claude-code-subagents: direct=9, index_children=4, second_level_roots=4
+- VoltAgent/awesome-agent-skills: direct=147, index_children=5, second_level_roots=5
+- travisvn/awesome-claude-skills: direct=17, index_children=0, second_level_roots=0
+- Jeffallan/claude-skills: direct=2, index_children=1, second_level_roots=1
+- dontriskit/awesome-ai-system-prompts: direct=0, index_children=0, second_level_roots=0
+- vijaythecoder/awesome-claude-agents: direct=0, index_children=0, second_level_roots=0
+- Prat011/awesome-llm-skills: direct=19, index_children=1, second_level_roots=1
+
 ## 60 项逐仓库深度分析
 
 ### 2. nextlevelbuilder/ui-ux-pro-max-skill
@@ -123,6 +137,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 离线环境重复执行确认稳定。
 
 ### 13. VoltAgent/awesome-claude-code-subagents
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/VoltAgent/awesome-claude-code-subagents
 - 角色定位: 技能索引与分发
 - 主要作用: A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
@@ -138,6 +153,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 比对转换前后语义漂移。
 
 ### 16. VoltAgent/awesome-agent-skills
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/VoltAgent/awesome-agent-skills
 - 角色定位: 技能索引与分发
 - 主要作用: Claude Code Skills and 1000+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
@@ -168,6 +184,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 离线环境重复执行确认稳定。
 
 ### 19. travisvn/awesome-claude-skills
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/travisvn/awesome-claude-skills
 - 角色定位: 技能索引与分发
 - 主要作用: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -213,6 +230,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 交接给前端实现并检查可执行性。
 
 ### 23. Jeffallan/claude-skills
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/Jeffallan/claude-skills
 - 角色定位: 技能索引与分发
 - 主要作用: 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
@@ -298,6 +316,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 交接给前端实现并检查可执行性。
 
 ### 29. dontriskit/awesome-ai-system-prompts
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/dontriskit/awesome-ai-system-prompts
 - 角色定位: 界面与产品设计
 - 主要作用: 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
@@ -388,6 +407,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 导出 DeerFlow 报告并复跑一次确认一致。
 
 ### 36. vijaythecoder/awesome-claude-agents
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/vijaythecoder/awesome-claude-agents
 - 角色定位: 界面与产品设计
 - 主要作用: An orchestrated sub agent dev team powered by claude code
@@ -814,6 +834,7 @@ bash scripts/pack_skill_archives.sh output/skills/custom dist
   - 在隔离环境复跑确认稳定。
 
 ### 82. Prat011/awesome-llm-skills
+- 索引递归报告: `reports/index-recursive-analysis.md`
 - 仓库链接: https://github.com/Prat011/awesome-llm-skills
 - 深度报告: `reports/prat011-awesome-llm-skills-deep-dive.md`
 - 角色定位: 技能索引与分发

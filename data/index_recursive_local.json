@@ -1,0 +1,656 @@
+[
+  {
+    "root": "VoltAgent/awesome-claude-code-subagents",
+    "direct_link_count": 9,
+    "direct_index_like_count": 4,
+    "direct_top": [
+      {
+        "repo": "VoltAgent/awesome-openclaw-skills",
+        "stars": 43089,
+        "is_index_like": true
+      },
+      {
+        "repo": "VoltAgent/awesome-agent-skills",
+        "stars": 13377,
+        "is_index_like": true
+      },
+      {
+        "repo": "VoltAgent/awesome-codex-subagents",
+        "stars": 3084,
+        "is_index_like": true
+      },
+      {
+        "repo": "VoltAgent/awesome-ai-agent-papers",
+        "stars": 411,
+        "is_index_like": true
+      },
+      {
+        "repo": "taskade/mcp",
+        "stars": 120,
+        "is_index_like": false
+      },
+      {
+        "repo": "sathish316/pied-piper",
+        "stars": 74,
+        "is_index_like": false
+      },
+      {
+        "repo": "connerlambden/bgpt-mcp",
+        "stars": 11,
+        "is_index_like": false
+      },
+      {
+        "repo": "VoltAgent/voltagen",
+        "stars": 0,
+        "is_index_like": false
+      },
+      {
+        "repo": "user-attachments/assets",
+        "stars": 0,
+        "is_index_like": false
+      }
+    ],
+    "index_children_second_level": [
+      {
+        "repo": "VoltAgent/awesome-openclaw-skills",
+        "stars": 43089,
+        "second_level_link_count": 10,
+        "second_level_index_like_count": 5,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-ai-agent-papers",
+          "VoltAgent/awesome-claude-code-subagents",
+          "VoltAgent/awesome-clawdbot-skills",
+          "VoltAgent/awesome-codex-subagents",
+          "VoltAgent/voltagen",
+          "clawdbot/skills",
+          "openclaw/skills",
+          "snyk/agent-scan",
+          "user-attachments/assets"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-agent-skills",
+        "stars": 13377,
+        "second_level_link_count": 147,
+        "second_level_index_like_count": 5,
+        "second_level_top": [
+          "AgriciDaniel/claude-seo",
+          "AvdLee/SwiftUI-Agent-Skill",
+          "BehiSecc/VibeSec-Skill",
+          "BrianRWagner/ai-marketing-skills",
+          "Charlie85270/Dorothy",
+          "ClickHouse/agent-skills",
+          "CloudAI-X/threejs-skills",
+          "ComposioHQ/skills",
+          "CosmoBlk/email-marketing-bible",
+          "Digidai/product-manager-skills",
+          "Eronred/aso-skills",
+          "EveryInc/charlie-cfo-skill",
+          "HeshamFS/materials-simulation-skills",
+          "Joannis/claude-skills",
+          "K-Dense-AI/claude-scientific-skills",
+          "Kevin7Qi/codex-collab",
+          "Leonxlnx/taste-skill",
+          "MiniMax-AI/skills",
+          "NeoLabHQ/context-engineering-k",
+          "NoizAI/skills",
+          "NotMyself/claude-win11-speckit-update-skill",
+          "Orchestra-Research/AI-research-SKILLs",
+          "PSPDFKit-labs/nutrient-agent-skill",
+          "Paramchoudhary/ResumeSkills",
+          "PleasePrompto/notebooklm-skill",
+          "ReScienceLab/opc-skills",
+          "Rootly-AI-Labs/Rootly-MCP-server",
+          "RoundTable02/tutor-skills",
+          "SHADOWPR0/beautiful_prose",
+          "SHADOWPR0/security-bluebook-builder"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-codex-subagents",
+        "stars": 3084,
+        "second_level_link_count": 7,
+        "second_level_index_like_count": 4,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-ai-agent-papers",
+          "VoltAgent/awesome-claude-code-subagents",
+          "VoltAgent/awesome-openclaw-skills",
+          "VoltAgent/voltagen",
+          "sathish316/pied-piper",
+          "user-attachments/assets"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-ai-agent-papers",
+        "stars": 411,
+        "second_level_link_count": 6,
+        "second_level_index_like_count": 4,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-claude-code-subagents",
+          "VoltAgent/awesome-codex-subagents",
+          "VoltAgent/awesome-openclaw-skills",
+          "VoltAgent/voltagen",
+          "user-attachments/assets"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "VoltAgent/awesome-agent-skills",
+    "direct_link_count": 147,
+    "direct_index_like_count": 5,
+    "direct_top": [
+      {
+        "repo": "obra/superpowers",
+        "stars": 124398,
+        "is_index_like": false
+      },
+      {
+        "repo": "anthropics/skills",
+        "stars": 106216,
+        "is_index_like": false
+      },
+      {
+        "repo": "garrytan/gstack",
+        "stars": 56568,
+        "is_index_like": false
+      },
+      {
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+        "stars": 54658,
+        "is_index_like": false
+      },
+      {
+        "repo": "VoltAgent/awesome-openclaw-skills",
+        "stars": 43089,
+        "is_index_like": true
+      },
+      {
+        "repo": "vercel-labs/agent-skills",
+        "stars": 24093,
+        "is_index_like": false
+      },
+      {
+        "repo": "coreyhaines31/marketingskills",
+        "stars": 17500,
+        "is_index_like": false
+      },
+      {
+        "repo": "K-Dense-AI/claude-scientific-skills",
+        "stars": 16710,
+        "is_index_like": false
+      },
+      {
+        "repo": "openai/skills",
+        "stars": 15727,
+        "is_index_like": false
+      },
+      {
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "stars": 15631,
+        "is_index_like": true
+      },
+      {
+        "repo": "zarazhangrui/frontend-slides",
+        "stars": 11692,
+        "is_index_like": false
+      },
+      {
+        "repo": "blader/humanizer",
+        "stars": 11612,
+        "is_index_like": false
+      },
+      {
+        "repo": "yusufkaraaslan/Skill_Seekers",
+        "stars": 11466,
+        "is_index_like": false
+      },
+      {
+        "repo": "mattpocock/skills",
+        "stars": 10908,
+        "is_index_like": false
+      },
+      {
+        "repo": "huggingface/skills",
+        "stars": 9976,
+        "is_index_like": false
+      },
+      {
+        "repo": "phuryn/pm-skills",
+        "stars": 8395,
+        "is_index_like": false
+      },
+      {
+        "repo": "MiniMax-AI/skills",
+        "stars": 7855,
+        "is_index_like": false
+      },
+      {
+        "repo": "Leonxlnx/taste-skill",
+        "stars": 6427,
+        "is_index_like": false
+      },
+      {
+        "repo": "zechenzhangAGI/AI-research-SKILLs",
+        "stars": 5846,
+        "is_index_like": false
+      },
+      {
+        "repo": "Orchestra-Research/AI-research-SKILLs",
+        "stars": 5845,
+        "is_index_like": false
+      },
+      {
+        "repo": "PleasePrompto/notebooklm-skill",
+        "stars": 5285,
+        "is_index_like": false
+      },
+      {
+        "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+        "stars": 4744,
+        "is_index_like": false
+      },
+      {
+        "repo": "trailofbits/skills",
+        "stars": 4100,
+        "is_index_like": false
+      },
+      {
+        "repo": "czlonkowski/n8n-skills",
+        "stars": 3905,
+        "is_index_like": false
+      },
+      {
+        "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+        "stars": 3863,
+        "is_index_like": false
+      },
+      {
+        "repo": "google-labs-code/stitch-skills",
+        "stars": 3532,
+        "is_index_like": false
+      },
+      {
+        "repo": "AgriciDaniel/claude-seo",
+        "stars": 3529,
+        "is_index_like": false
+      },
+      {
+        "repo": "VoltAgent/awesome-codex-subagents",
+        "stars": 3084,
+        "is_index_like": true
+      },
+      {
+        "repo": "google-gemini/gemini-skills",
+        "stars": 2938,
+        "is_index_like": false
+      },
+      {
+        "repo": "deanpeters/Product-Manager-Skills",
+        "stars": 2800,
+        "is_index_like": false
+      }
+    ],
+    "index_children_second_level": [
+      {
+        "repo": "VoltAgent/awesome-openclaw-skills",
+        "stars": 43089,
+        "second_level_link_count": 10,
+        "second_level_index_like_count": 5,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-ai-agent-papers",
+          "VoltAgent/awesome-claude-code-subagents",
+          "VoltAgent/awesome-clawdbot-skills",
+          "VoltAgent/awesome-codex-subagents",
+          "VoltAgent/voltagen",
+          "clawdbot/skills",
+          "openclaw/skills",
+          "snyk/agent-scan",
+          "user-attachments/assets"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-claude-code-subagents",
+        "stars": 15631,
+        "second_level_link_count": 9,
+        "second_level_index_like_count": 4,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-ai-agent-papers",
+          "VoltAgent/awesome-codex-subagents",
+          "VoltAgent/awesome-openclaw-skills",
+          "VoltAgent/voltagen",
+          "connerlambden/bgpt-mcp",
+          "sathish316/pied-piper",
+          "taskade/mcp",
+          "user-attachments/assets"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-codex-subagents",
+        "stars": 3084,
+        "second_level_link_count": 7,
+        "second_level_index_like_count": 4,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-ai-agent-papers",
+          "VoltAgent/awesome-claude-code-subagents",
+          "VoltAgent/awesome-openclaw-skills",
+          "VoltAgent/voltagen",
+          "sathish316/pied-piper",
+          "user-attachments/assets"
+        ]
+      },
+      {
+        "repo": "VoltAgent/awesome-ai-agent-papers",
+        "stars": 411,
+        "second_level_link_count": 6,
+        "second_level_index_like_count": 4,
+        "second_level_top": [
+          "VoltAgent/awesome-agent-skills",
+          "VoltAgent/awesome-claude-code-subagents",
+          "VoltAgent/awesome-codex-subagents",
+          "VoltAgent/awesome-openclaw-skills",
+          "VoltAgent/voltagen",
+          "user-attachments/assets"
+        ]
+      },
+      {
+        "repo": "lawvable/awesome-legal-skills",
+        "stars": 217,
+        "second_level_link_count": 1,
+        "second_level_index_like_count": 1,
+        "second_level_top": [
+          "hesreallyhim/awesome-claude-code"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "travisvn/awesome-claude-skills",
+    "direct_link_count": 17,
+    "direct_index_like_count": 0,
+    "direct_top": [
+      {
+        "repo": "obra/superpowers",
+        "stars": 124398,
+        "is_index_like": false
+      },
+      {
+        "repo": "anthropics/skills",
+        "stars": 106217,
+        "is_index_like": false
+      },
+      {
+        "repo": "anthropics/claude-cookbooks",
+        "stars": 36681,
+        "is_index_like": false
+      },
+      {
+        "repo": "K-Dense-AI/claude-scientific-skills",
+        "stars": 16710,
+        "is_index_like": false
+      },
+      {
+        "repo": "zarazhangrui/frontend-slides",
+        "stars": 11692,
+        "is_index_like": false
+      },
+      {
+        "repo": "yusufkaraaslan/Skill_Seekers",
+        "stars": 11466,
+        "is_index_like": false
+      },
+      {
+        "repo": "anthropics/claude-agent-sdk-python",
+        "stars": 5968,
+        "is_index_like": false
+      },
+      {
+        "repo": "trailofbits/skills",
+        "stars": 4100,
+        "is_index_like": false
+      },
+      {
+        "repo": "lackeyjb/playwright-skill",
+        "stars": 2244,
+        "is_index_like": false
+      },
+      {
+        "repo": "expo/skills",
+        "stars": 1570,
+        "is_index_like": false
+      },
+      {
+        "repo": "asklokesh/claudeskill-loki-mode",
+        "stars": 793,
+        "is_index_like": false
+      },
+      {
+        "repo": "conorluddy/ios-simulator-skill",
+        "stars": 700,
+        "is_index_like": false
+      },
+      {
+        "repo": "obra/superpowers-skills",
+        "stars": 585,
+        "is_index_like": false
+      },
+      {
+        "repo": "alonw0/web-asset-generator",
+        "stars": 259,
+        "is_index_like": false
+      },
+      {
+        "repo": "obra/superpowers-lab",
+        "stars": 257,
+        "is_index_like": false
+      },
+      {
+        "repo": "chrisvoncsefalvay/claude-d3js-skill",
+        "stars": 138,
+        "is_index_like": false
+      },
+      {
+        "repo": "jthack/ffuf_claude_skill",
+        "stars": 130,
+        "is_index_like": false
+      }
+    ],
+    "index_children_second_level": []
+  },
+  {
+    "root": "Jeffallan/claude-skills",
+    "direct_link_count": 2,
+    "direct_index_like_count": 1,
+    "direct_top": [
+      {
+        "repo": "hesreallyhim/awesome-claude-code",
+        "stars": 34269,
+        "is_index_like": true
+      },
+      {
+        "repo": "jeffallan/claude-skills",
+        "stars": 7477,
+        "is_index_like": false
+      }
+    ],
+    "index_children_second_level": [
+      {
+        "repo": "hesreallyhim/awesome-claude-code",
+        "stars": 34269,
+        "second_level_link_count": 168,
+        "second_level_index_like_count": 5,
+        "second_level_top": [
+          "AndyMik90/Auto-Claude",
+          "Brads3290/cclogviewer",
+          "ClaytonFarr/ralph-playbook",
+          "Consiliency/Flutter-Structurizr",
+          "EveryInc/compound-engineering-plugin",
+          "Fimeg/NetworkChronicles",
+          "FlineDev/ContextK",
+          "FlorianBruniaux/claude-code-ultimate-guide",
+          "GWUDCAP/cc-sessions",
+          "GowayLee/cchooks",
+          "Haleclipse/CCometixLine",
+          "Haleclipse/Claudix",
+          "Helmi/claude-simone",
+          "JSONbored/claudepro-directory",
+          "K-Dense-AI/claude-scientific-skills",
+          "KarpelesLab/tpl",
+          "LamoomAI/lamoom-python",
+          "Layr-Labs/avs-vibe-developer-guide",
+          "Maciek-roboblog/Claude-Code-Usage-Monitor",
+          "Mjvolk3/torchcell",
+          "NeoLabHQ/context-engineering-k",
+          "OneRedOak/claude-code-workflows",
+          "OverseedAI/viwo",
+          "Owloops/claude-powerline",
+          "ParetoSecurity/pareto-mac",
+          "Piebald-AI/claude-code-system-prompts",
+          "Piebald-AI/tweakcc",
+          "SuperClaude-Org/SuperClaude_Framework",
+          "Talieisin/britfix",
+          "ThibautMelen/agentic-workflow-patterns"
+        ]
+      }
+    ]
+  },
+  {
+    "root": "dontriskit/awesome-ai-system-prompts",
+    "direct_link_count": 0,
+    "direct_index_like_count": 0,
+    "direct_top": [],
+    "index_children_second_level": []
+  },
+  {
+    "root": "vijaythecoder/awesome-claude-agents",
+    "direct_link_count": 0,
+    "direct_index_like_count": 0,
+    "direct_top": [],
+    "index_children_second_level": []
+  },
+  {
+    "root": "Prat011/awesome-llm-skills",
+    "direct_link_count": 19,
+    "direct_index_like_count": 1,
+    "direct_top": [
+      {
+        "repo": "obra/superpowers",
+        "stars": 124398,
+        "is_index_like": false
+      },
+      {
+        "repo": "anthropics/skills",
+        "stars": 106217,
+        "is_index_like": false
+      },
+      {
+        "repo": "yusufkaraaslan/Skill_Seekers",
+        "stars": 11466,
+        "is_index_like": false
+      },
+      {
+        "repo": "PleasePrompto/notebooklm-skill",
+        "stars": 5285,
+        "is_index_like": false
+      },
+      {
+        "repo": "lackeyjb/playwright-skill",
+        "stars": 2244,
+        "is_index_like": false
+      },
+      {
+        "repo": "conorluddy/ios-simulator-skill",
+        "stars": 700,
+        "is_index_like": false
+      },
+      {
+        "repo": "mhattingpete/claude-skills-marketplace",
+        "stars": 519,
+        "is_index_like": true
+      },
+      {
+        "repo": "coffeefuelbump/csv-data-summarizer-claude-skill",
+        "stars": 318,
+        "is_index_like": false
+      },
+      {
+        "repo": "michalparkola/tapestry-skills-for-claude-code",
+        "stars": 305,
+        "is_index_like": false
+      },
+      {
+        "repo": "zxkane/aws-skills",
+        "stars": 224,
+        "is_index_like": false
+      },
+      {
+        "repo": "sanjay3290/ai-skills",
+        "stars": 182,
+        "is_index_like": false
+      },
+      {
+        "repo": "chrisvoncsefalvay/claude-d3js-skill",
+        "stars": 138,
+        "is_index_like": false
+      },
+      {
+        "repo": "jthack/ffuf_claude_skill",
+        "stars": 130,
+        "is_index_like": false
+      },
+      {
+        "repo": "smerchek/claude-epub-skill",
+        "stars": 103,
+        "is_index_like": false
+      },
+      {
+        "repo": "omkamal/pypict-claude-skill",
+        "stars": 62,
+        "is_index_like": false
+      },
+      {
+        "repo": "emaynard/claude-family-history-research-skill",
+        "stars": 49,
+        "is_index_like": false
+      },
+      {
+        "repo": "1NickPappas/move-code-quality-skill",
+        "stars": 18,
+        "is_index_like": false
+      },
+      {
+        "repo": "jthack/threat-hunting-with-sigma-rules-skill",
+        "stars": 0,
+        "is_index_like": false
+      },
+      {
+        "repo": "user-attachments/assets",
+        "stars": 0,
+        "is_index_like": false
+      }
+    ],
+    "index_children_second_level": [
+      {
+        "repo": "mhattingpete/claude-skills-marketplace",
+        "stars": 519,
+        "second_level_link_count": 7,
+        "second_level_index_like_count": 0,
+        "second_level_top": [
+          "anthropics/claude-code",
+          "anthropics/skills",
+          "mhattingpete/agent-composer",
+          "mhattingpete/code-copy-mcp",
+          "mhattingpete/nemlig-shopper",
+          "mhattingpete/outlook-mcp",
+          "mhattingpete/personal-ai-os"
+        ]
+      }
+    ]
+  }
+]
